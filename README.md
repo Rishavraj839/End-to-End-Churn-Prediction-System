@@ -3,7 +3,7 @@
 
 # 📉 ChurnSense-AI: End-to-End Customer Churn Prediction System
 
-🚀 **Live App:** https://netflix-show-clustering-with-kmeans-hkab3ybtb4ftqq6ikygzcm.streamlit.app/
+🚀 **Live App:** https://end-to-end-churn-prediction-system-xhdqugxmjyvn7ffomnslhp.streamlit.app/
 
 ---
 
